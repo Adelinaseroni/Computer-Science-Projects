@@ -1,2 +1,2 @@
-# Python chatbot 
-A simple Python chatbot that can answer basic questions and engage in small conversations. 
+# Personal projects
+This is a repository of all my personal projects
