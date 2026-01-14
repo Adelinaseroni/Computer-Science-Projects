@@ -4,11 +4,11 @@
   "questions": [
   {
     "question": "Clinic program and doctors.",
-    "answer": "Our clinic is opened Monday to Friday from 08:00 AM to 04:00 PM. Our doctors Vasile Albu (Cardiologist), Mihai George (Psychiatrist), Adrian Simon (Family doctor) are are experienced professionals dedicated to providing high-quality care."
+    "answer": "Our clinic is opened Monday to Friday from 08:00 AM to 04:00 PM. Our doctors (insert desired doctor names) are are experienced professionals dedicated to providing high-quality care."
   },
   {
     "question": "How to book an appointment?",
-    "answer": "An appointment can be booked via accessing and completing this google formular https://forms.gle/zgTxwju98QDJjodCA. Our clinic also provides booking available slots by phoning at 012345678, or physically at our clinic's front desk."
+    "answer": "An appointment can be booked via accessing and completing this google formular (insert form here). Our clinic also provides booking available slots by phoning at 012345678, or physically at our clinic's front desk."
   },
   {
     "question": "What should I bring to my appointment?",
@@ -20,3 +20,4 @@
   }
 ]
 }
+
