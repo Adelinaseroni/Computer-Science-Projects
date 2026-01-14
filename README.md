@@ -1,2 +1,2 @@
-# Computer-Science-Projects
-This repository is a space to store all projects related to Computer Science.
+# Python chatbot 
+A simple Python chatbot that can answer basic questions and engage in small conversations. 
